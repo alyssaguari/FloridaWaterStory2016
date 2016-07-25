@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FloridaWaterStory2016</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_aquifers">Aquifers</string>
+    <string name="title_activity_okeechobee">Okeechobee</string>
+    <string name="title_activity_hydrologic_cycle">HydrologicCycle</string>
+    <string name="title_activity_kissimmee">Kissimmee</string>
+    <string name="title_activity_startup">Startup</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_game">Game</string>
+</resources>
